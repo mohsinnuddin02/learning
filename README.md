@@ -1,2 +1,2 @@
 # learning
-Learning git and giyhub
+Learning git and github
